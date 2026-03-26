@@ -1,0 +1,14 @@
+numeric datatype :
++,-,/,*,%
+
+integer :  12,56,8454  ,1
+float : 1.2 ,56.2,32.0
+
+nonnumeric datatype:
+
+string:  "raman","John@123" , "1", "2.25"
+.......................................................
+conditional statements 
+age:
+
+

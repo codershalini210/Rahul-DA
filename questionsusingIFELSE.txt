@@ -1,0 +1,48 @@
+1.Take a number and check if it is positive or negative. If positive, then check if it is greater than 100 or not.
+
+2.Take a number and check if it is negative, zero, or positive. If positive, then check if it is less than 50.
+
+3.Take marks of a student and print grade:
+If marks ≥ 50 → Pass, else Fail
+Inside Pass:
+≥ 75 → Distinction
+≥ 60 → First Class
+else → Second Class
+
+4.Take a number and check if it is greater than 10. If yes, then check if it is greater than 50.
+
+5.Take age as input. If age ≥ 18, then check if age ≥ 60 → Senior Citizen, else Adult. If less than 18 → Minor.
+
+6.Take a number and check if it is less than 0. If not, then check if it is equal to 0 or greater than 0.
+
+7.Take two numbers and print the greater one. If both are equal, print "Equal".
+
+8.Take three numbers and find the largest using nested if-else.
+
+9.Take a number and check if it is between 10 and 100 using nested if (no logical operators).
+
+10.Take a number and check if it is greater than 0. If yes, then check if it is less than 10.
+
+11.Take temperature as input:
+If temperature > 30 → Hot
+Else check:
+
+20 → Warm
+else → Cold
+
+12.Take salary as input:
+If salary ≥ 20000 → Eligible
+Inside that:
+≥ 50000 → High eligibility
+else → Low eligibility
+Else → Not eligible
+
+
+13.Take a number and check if it is positive. If yes, then check if it is a single digit or double digit.
+
+14 Take a character input.
+If it is lowercase letter, then check if it is vowel or consonant using nested if (no logical operators).
+
+15. Take a year and check:
+If year ≥ 2000, then check if year ≤ 2020
+Else print "Out of range"
